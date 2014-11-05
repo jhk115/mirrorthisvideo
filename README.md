@@ -1,4 +1,4 @@
 mirrorthisvideo
 ===============
 
-Simple site that uses Vidme to mirror online videos
+Simple site that uses the Vidme API to mirror online videos
